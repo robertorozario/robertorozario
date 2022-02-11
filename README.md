@@ -1,12 +1,12 @@
 ## Olá, eu sou Roberto Rozário 
 * 📚 Sou graduando em Ciência da Computação pela UFSC
 * 💻 Estudando Go e Django
-<!--
+
 <div align="center">
-    <a href="https://github.com/imrhr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrhr&theme=dracula">
+    <a href="https://github.com/robertorozario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertorozario">
+    <!-- &theme=dracula>
 </div>  
-  -->
   
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="imrhr-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
